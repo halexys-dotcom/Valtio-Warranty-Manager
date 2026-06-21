@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Valtio</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Inizio</string>
+    <string name="nav_products">Prodotti</string>
+    <string name="nav_search">Cerca</string>
+    <string name="nav_settings">Impostazioni</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Impostazioni</string>
+    <string name="settings_language">Lingua</string>
+    <string name="settings_export">Esporta Dati</string>
+    <string name="settings_about">Informazioni</string>
+    <string name="settings_about_description">Valtio è il tuo assistente digitale per gestire le garanzie dei prodotti e i documenti d\'acquisto.</string>
+    <string name="settings_about_slogan">Non perdere mai più una garanzia</string>
+    <string name="settings_about_copyright">Tutti i diritti riservati a HAConnect</string>
+    <string name="settings_language_auto">Automatico</string>
+    <string name="settings_language_pt">Português</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_language_es">Español</string>
+    <string name="settings_language_fr">Français</string>
+    <string name="settings_language_de">Deutsch</string>
+    <string name="settings_language_it">Italiano</string>
+    <string name="settings_language_nl">Nederlands</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_summary">Riepilogo</string>
+    <string name="dashboard_active_warranties">Garanzie Attive</string>
+    <string name="dashboard_expiring_30d">In scadenza (30g)</string>
+    <string name="dashboard_expired">Scadute</string>
+    <string name="dashboard_protected_value">Valore Protetto</string>
+    <string name="dashboard_expiring_soon">Garanzie in scadenza</string>
+    <string name="dashboard_recent_products">Ultimi Prodotti</string>
+    <string name="dashboard_empty_title">Nessun prodotto registrato</string>
+    <string name="dashboard_empty_subtitle">Inizia aggiungendo il tuo primo prodotto!</string>
+
+    <!-- Product List -->
+    <string name="products_title">Prodotti</string>
+    <string name="products_empty_title">Nessun prodotto</string>
+    <string name="products_empty_subtitle">Tocca + per aggiungere un prodotto</string>
+
+    <!-- Product Detail -->
+    <string name="product_detail_title">Dettagli Prodotto</string>
+    <string name="product_detail_title_short">Dettagli</string>
+    <string name="product_detail_back">Indietro</string>
+    <string name="product_detail_edit">Modifica</string>
+    <string name="product_detail_delete">Elimina</string>
+    <string name="product_detail_not_found">Prodotto non trovato.</string>
+    <string name="product_detail_model">Modello</string>
+    <string name="product_detail_category">Categoria</string>
+    <string name="product_detail_store">Negozio</string>
+    <string name="product_detail_price">Prezzo</string>
+    <string name="product_detail_purchase_date">Data di acquisto</string>
+    <string name="product_detail_warranty">Garanzia</string>
+    <string name="product_detail_warranty_end">Fine garanzia</string>
+    <string name="product_detail_days_remaining">Giorni rimanenti</string>
+    <string name="product_detail_notes">Note</string>
+    <string name="product_detail_documents">Documenti</string>
+    <string name="product_detail_no_documents">Nessun documento allegato.</string>
+    <string name="product_detail_delete_confirm">Vuoi eliminare questo prodotto e i suoi documenti?</string>
+    <string name="product_detail_cancel">Annulla</string>
+    <string name="product_detail_delete_action">Elimina</string>
+
+    <!-- Product Form -->
+    <string name="product_form_edit_title">Modifica Prodotto</string>
+    <string name="product_form_edit_title_short">Modifica</string>
+    <string name="product_form_new_title">Nuovo Prodotto</string>
+    <string name="product_form_new_title_short">Nuovo</string>
+    <string name="product_form_info">Info Prodotto</string>
+    <string name="product_form_name">Nome prodotto *</string>
+    <string name="product_form_brand">Marca</string>
+    <string name="product_form_model">Modello</string>
+    <string name="product_form_category">Categoria</string>
+    <string name="product_form_store">Negozio</string>
+    <string name="product_form_price">Prezzo</string>
+    <string name="product_form_warranty">Garanzia</string>
+    <string name="product_form_no_warranty">Nessuna garanzia</string>
+    <string name="product_form_warranty_months">%1$d mesi</string>
+    <string name="product_form_warranty_custom">Personalizzato…</string>
+    <string name="product_form_warranty_custom_hint">N. mesi</string>
+    <string name="product_form_add_photo">Aggiungi Foto</string>
+    <string name="product_form_change_photo">Cambia Foto</string>
+    <string name="product_form_purchase_date">Data acquisto</string>
+    <string name="product_form_select_date">Seleziona data</string>
+    <string name="product_form_notes">Note</string>
+    <string name="product_form_save_edit">Salva</string>
+    <string name="product_form_add_product">Aggiungi</string>
+    <string name="product_form_ok">OK</string>
+    <string name="product_form_cancel">Annulla</string>
+
+    <!-- Search -->
+    <string name="search_title">Cerca</string>
+    <string name="search_placeholder">Cerca per nome, marca, negozio…</string>
+    <string name="search_clear">Pulisci</string>
+    <string name="search_filter_all">Tutte</string>
+    <string name="search_filter_active">Attive</string>
+    <string name="search_filter_expiring">In scadenza</string>
+    <string name="search_filter_expired">Scadute</string>
+    <string name="search_no_results">Nessun risultato</string>
+    <string name="search_no_products">Nessun prodotto</string>
+    <string name="search_try_other_terms">Prova altri termini</string>
+
+    <!-- Export -->
+    <string name="export_title">Esporta Dati</string>
+    <string name="export_heading">Esporta i tuoi dati</string>
+    <string name="export_description">Esporta in PDF o CSV per condividere.</string>
+    <string name="export_pdf_card_title">Documento PDF</string>
+    <string name="export_pdf_card_desc">Tabella formattata con tutti i campi</string>
+    <string name="export_csv_card_title">File CSV</string>
+    <string name="export_csv_card_desc">Compatibile con Excel, Sheets, etc.</string>
+    <string name="export_btn_pdf">Esporta PDF</string>
+    <string name="export_btn_csv">Esporta CSV</string>
+    <string name="export_btn_share">Condividi</string>
+    <string name="export_info_title">Tutti i dati verranno esportati</string>
+    <string name="export_info_desc">Nome, marca, categoria, prezzo, date e stato</string>
+    <string name="export_success">Esportazione %1$s riuscita!</string>
+    <string name="export_empty">Nessun prodotto da esportare.</string>
+
+    <!-- PDF Export -->
+    <string name="pdf_title">Valtio — Esportazione Prodotti</string>
+    <string name="pdf_generated_on">Generato il: %1$s</string>
+    <string name="pdf_header_name">Nome</string>
+    <string name="pdf_header_brand">Marca</string>
+    <string name="pdf_header_category">Categoria</string>
+    <string name="pdf_header_price">Prezzo</string>
+    <string name="pdf_header_purchase_date">Data acquisto</string>
+    <string name="pdf_header_warranty">Garanzia</string>
+    <string name="pdf_share_title">Condividi esportazione</string>
+
+    <!-- CSV Headers -->
+    <string name="csv_header_name">Nome</string>
+    <string name="csv_header_brand">Marca</string>
+    <string name="csv_header_model">Modello</string>
+    <string name="csv_header_category">Categoria</string>
+    <string name="csv_header_store">Negozio</string>
+    <string name="csv_header_price">Prezzo</string>
+    <string name="csv_header_purchase_date">Data acquisto</string>
+    <string name="csv_header_warranty_months">Garanzia (Mesi)</string>
+    <string name="csv_header_warranty_end">Fine garanzia</string>
+    <string name="csv_header_status">Stato</string>
+
+    <!-- Warranty Status -->
+    <string name="warranty_status_active">Attiva</string>
+    <string name="warranty_status_expiring">In scadenza</string>
+    <string name="warranty_status_expired">Scaduta</string>
+    <string name="warranty_status_none">Nessuna garanzia</string>
+
+    <!-- Currency and Locales -->
+    <string name="currency_eur_prefix">€ </string>
+    <string name="settings_current_locales">Locale attuale: %1$s</string>
+    <string name="settings_force_pl">Forza Polski (pl)</string>
+    <string name="settings_force_ru">Forza Русский (ru)</string>
+
+    <!-- GarantiaBadge -->
+    <string name="badge_active">%1$d giorni</string>
+    <string name="badge_active_short">Attiva</string>
+    <string name="badge_expiring">%1$dg rimanenti</string>
+    <string name="badge_expiring_short">In scad.</string>
+    <string name="badge_expired_short">Scaduta</string>
+    <string name="badge_none_short">Nessuna</string>
+
+    <!-- ProdutoCard -->
+    <string name="card_purchase_label">Acquisto: %1$s</string>
+    <string name="card_warranty_end_label">Fine: %1$s</string>
+    <string name="card_purchase_column_label">ACQUISTO</string>
+    <string name="card_warranty_end_column_label">FINE GARANZIA</string>
+    <string name="card_category_column_label">CATEGORIA</string>
+    <string name="card_edit_description">Modifica</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Avvisi Garanzia</string>
+    <string name="notification_channel_desc">Avvisi sulla scadenza garanzie</string>
+    <string name="notification_expires_today_title">Garanzia scade oggi!</string>
+    <string name="notification_expires_soon_title">Garanzia scade presto</string>
+    <string name="notification_expiring_title">Garanzia in scadenza</string>
+    <string name="notification_alert_title">Garanzia — Avviso</string>
+    <string name="notification_expires_today_body">La garanzia di \"%1$s\" scade oggi!</string>
+    <string name="notification_expires_tomorrow_body">La garanzia di \"%1$s\" scade domani!</string>
+    <string name="notification_expires_in_days_body">La garanzia di \"%1$s\" scade tra %2$d giorni.</string>
+
+    <!-- FAB -->
+    <string name="fab_new_product">Nuovo Prodotto</string>
+
+    <!-- Play Store -->
+    <string name="play_store_short_desc">Caveau digitale per garanzie e scontrini.</string>
+    <string name="play_store_long_desc">Valtio è il tuo caveau digitale per gestire garanzie e fatture.</string>
+</resources>

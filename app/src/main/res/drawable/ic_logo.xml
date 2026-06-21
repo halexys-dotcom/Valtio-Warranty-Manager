@@ -1,0 +1,63 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Shield Base Gradient (Silver Metallic) -->
+    <path
+        android:pathData="M54,16L20,30v22c0,21 15,40 34,45c19,-5 34,-24 34,-45V30L54,16z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:centerX="54"
+                android:centerY="54"
+                android:gradientRadius="45"
+                android:type="radial">
+                <item android:color="#F5F5F5" android:offset="0.0" />
+                <item android:color="#E0E0E0" android:offset="0.7" />
+                <item android:color="#BDBDBD" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Shield Border/Inner Bevel -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M54,18L22,31v21c0,20 14,38 32,43c18,-5 32,-23 32,-43V31L54,18z M54,22L82,33v19c0,18 -12,34 -28,39c-16,-5 -28,-21 -28,-39V33L54,22z" />
+
+    <!-- Split Inner Shield (3D Effect) -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M54,22L26,33v19c0,18 12,34 28,39V22z" />
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M54,22v58c16,-5 28,-21 28,-39V33L54,22z" />
+
+    <!-- V Shape with Green Gradient -->
+    <path
+        android:pathData="M40,42l14,24l14,-24h8L54,80L32,42z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="76"
+                android:endY="80"
+                android:startX="32"
+                android:startY="42"
+                android:type="linear">
+                <item android:color="#81C784" android:offset="0.0" />
+                <item android:color="#4CAF50" android:offset="0.5" />
+                <item android:color="#2E7D32" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Glossy Sparkle Overlay -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M85,25l1,3l3,1l-3,1l-1,3l-1,-3l-3,-1l3,-1z" />
+    <path
+        android:fillAlpha="0.4"
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,22L26,33c5,-5 15,-8 28,-8s23,3 28,8L54,22z" />
+
+</vector>

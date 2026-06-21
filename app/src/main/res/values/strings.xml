@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Valtio</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_products">Products</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_export">Export Data</string>
+    <string name="settings_about">About</string>
+    <string name="settings_about_description">Valtio is your digital assistant for managing product warranties and purchase documents.</string>
+    <string name="settings_about_slogan">Never Lose a Warranty Again</string>
+    <string name="settings_about_copyright">All rights reserved to HAConnect</string>
+    <string name="settings_language_auto">Automatic</string>
+    <string name="settings_language_pt">Português</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_language_es">Español</string>
+    <string name="settings_language_fr">Français</string>
+    <string name="settings_language_de">Deutsch</string>
+    <string name="settings_language_it">Italiano</string>
+    <string name="settings_language_nl">Nederlands</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_summary">Summary</string>
+    <string name="dashboard_active_warranties">Active Warranties</string>
+    <string name="dashboard_expiring_30d">Expiring (30d)</string>
+    <string name="dashboard_expired">Expired</string>
+    <string name="dashboard_protected_value">Protected Value</string>
+    <string name="dashboard_expiring_soon">Warranties Expiring Soon</string>
+    <string name="dashboard_recent_products">Recent Products</string>
+    <string name="dashboard_empty_title">No products registered</string>
+    <string name="dashboard_empty_subtitle">Start by adding your first product!</string>
+
+    <!-- Product List -->
+    <string name="products_title">Products</string>
+    <string name="products_empty_title">No products</string>
+    <string name="products_empty_subtitle">Tap the + button to add a new product</string>
+
+    <!-- Product Detail -->
+    <string name="product_detail_title">Product Details</string>
+    <string name="product_detail_title_short">Details</string>
+    <string name="product_detail_back">Back</string>
+    <string name="product_detail_edit">Edit</string>
+    <string name="product_detail_delete">Delete</string>
+    <string name="product_detail_not_found">Product not found.</string>
+    <string name="product_detail_model">Model</string>
+    <string name="product_detail_category">Category</string>
+    <string name="product_detail_store">Store</string>
+    <string name="product_detail_price">Price</string>
+    <string name="product_detail_purchase_date">Purchase Date</string>
+    <string name="product_detail_warranty">Warranty</string>
+    <string name="product_detail_warranty_end">Warranty End</string>
+    <string name="product_detail_days_remaining">Days Remaining</string>
+    <string name="product_detail_notes">Notes</string>
+    <string name="product_detail_documents">Documents</string>
+    <string name="product_detail_no_documents">No documents attached.</string>
+    <string name="product_detail_delete_confirm">Are you sure you want to delete this product and all its documents?</string>
+    <string name="product_detail_cancel">Cancel</string>
+    <string name="product_detail_delete_action">Delete</string>
+
+    <!-- Product Form -->
+    <string name="product_form_edit_title">Edit Product</string>
+    <string name="product_form_edit_title_short">Edit</string>
+    <string name="product_form_new_title">New Product</string>
+    <string name="product_form_new_title_short">New</string>
+    <string name="product_form_info">Product Information</string>
+    <string name="product_form_name">Product Name *</string>
+    <string name="product_form_brand">Brand</string>
+    <string name="product_form_model">Model</string>
+    <string name="product_form_category">Category</string>
+    <string name="product_form_store">Store</string>
+    <string name="product_form_price">Price</string>
+    <string name="product_form_warranty">Warranty</string>
+    <string name="product_form_no_warranty">No warranty</string>
+    <string name="product_form_warranty_months">%1$d months</string>
+    <string name="product_form_warranty_custom">Custom…</string>
+    <string name="product_form_warranty_custom_hint">Number of months</string>
+    <string name="product_form_add_photo">Add Photo</string>
+    <string name="product_form_change_photo">Change Photo</string>
+    <string name="product_form_purchase_date">Purchase Date</string>
+    <string name="product_form_select_date">Select date</string>
+    <string name="product_form_notes">Notes</string>
+    <string name="product_form_save_edit">Save Changes</string>
+    <string name="product_form_add_product">Add Product</string>
+    <string name="product_form_ok">OK</string>
+    <string name="product_form_cancel">Cancel</string>
+
+    <!-- Search -->
+    <string name="search_title">Search</string>
+    <string name="search_placeholder">Search by name, brand, store…</string>
+    <string name="search_clear">Clear</string>
+    <string name="search_filter_all">All</string>
+    <string name="search_filter_active">Active</string>
+    <string name="search_filter_expiring">Expiring</string>
+    <string name="search_filter_expired">Expired</string>
+    <string name="search_no_results">No results found</string>
+    <string name="search_no_products">No products</string>
+    <string name="search_try_other_terms">Try other search terms</string>
+
+    <!-- Export -->
+    <string name="export_title">Export Data</string>
+    <string name="export_heading">Export your data</string>
+    <string name="export_description">Export all your products to PDF or CSV. The file will be generated and can be shared.</string>
+    <string name="export_pdf_card_title">PDF Document</string>
+    <string name="export_pdf_card_desc">Formatted table with all product fields</string>
+    <string name="export_csv_card_title">CSV File</string>
+    <string name="export_csv_card_desc">Compatible with Excel, Google Sheets, etc.</string>
+    <string name="export_btn_pdf">Export PDF</string>
+    <string name="export_btn_csv">Export CSV</string>
+    <string name="export_btn_share">Share</string>
+    <string name="export_info_title">All your data is exported</string>
+    <string name="export_info_desc">Includes name, brand, category, price, dates and warranty status</string>
+    <string name="export_success">Export %1$s completed successfully!</string>
+    <string name="export_empty">No products to export.</string>
+
+    <!-- PDF Export -->
+    <string name="pdf_title">Valtio — Product Export</string>
+    <string name="pdf_generated_on">Generated on: %1$s</string>
+    <string name="pdf_header_name">Name</string>
+    <string name="pdf_header_brand">Brand</string>
+    <string name="pdf_header_category">Category</string>
+    <string name="pdf_header_price">Price</string>
+    <string name="pdf_header_purchase_date">Purchase Date</string>
+    <string name="pdf_header_warranty">Warranty</string>
+    <string name="pdf_share_title">Share export</string>
+
+    <!-- CSV Headers -->
+    <string name="csv_header_name">Name</string>
+    <string name="csv_header_brand">Brand</string>
+    <string name="csv_header_model">Model</string>
+    <string name="csv_header_category">Category</string>
+    <string name="csv_header_store">Store</string>
+    <string name="csv_header_price">Price</string>
+    <string name="csv_header_purchase_date">Purchase Date</string>
+    <string name="csv_header_warranty_months">Warranty (Months)</string>
+    <string name="csv_header_warranty_end">Warranty End</string>
+    <string name="csv_header_status">Status</string>
+
+    <!-- Warranty Status -->
+    <string name="warranty_status_active">Active</string>
+    <string name="warranty_status_expiring">Expiring</string>
+    <string name="warranty_status_expired">Expired</string>
+    <string name="warranty_status_none">No Warranty</string>
+
+    <!-- Currency and Locales -->
+    <string name="currency_eur_prefix">€ </string>
+    <string name="settings_current_locales">Current locales: %1$s</string>
+    <string name="settings_force_pl">Force Polski (pl)</string>
+    <string name="settings_force_ru">Force Русский (ru)</string>
+
+    <!-- GarantiaBadge -->
+    <string name="badge_active">%1$d days</string>
+    <string name="badge_active_short">Active</string>
+    <string name="badge_expiring">%1$dd left</string>
+    <string name="badge_expiring_short">Expiring</string>
+    <string name="badge_expired_short">Expired</string>
+    <string name="badge_none_short">No Warranty</string>
+
+    <!-- ProdutoCard -->
+    <string name="card_purchase_label">Purchase: %1$s</string>
+    <string name="card_warranty_end_label">End: %1$s</string>
+    <string name="card_purchase_column_label">PURCHASE</string>
+    <string name="card_warranty_end_column_label">WARRANTY END</string>
+    <string name="card_category_column_label">CATEGORY</string>
+    <string name="card_edit_description">Edit</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Warranty Alerts</string>
+    <string name="notification_channel_desc">Alerts about warranties about to expire</string>
+    <string name="notification_expires_today_title">Warranty expires today!</string>
+    <string name="notification_expires_soon_title">Warranty expires soon</string>
+    <string name="notification_expiring_title">Warranty expiring</string>
+    <string name="notification_alert_title">Warranty — Alert</string>
+    <string name="notification_expires_today_body">The warranty for \"%1$s\" expires today!</string>
+    <string name="notification_expires_tomorrow_body">The warranty for \"%1$s\" expires tomorrow!</string>
+    <string name="notification_expires_in_days_body">The warranty for \"%1$s\" expires in %2$d days.</string>
+
+    <!-- FAB -->
+    <string name="fab_new_product">New Product</string>
+
+    <!-- Play Store metadata -->
+    <string name="play_store_short_desc">Digital vault for warranties, invoices and purchase documents.</string>
+    <string name="play_store_long_desc">Valtio is your digital safe for managing warranties, invoices and purchase documents. Never lose a receipt or forget a warranty expiration date again.\n\nFeatures:\n• Product registration with warranty tracking\n• Document attachment (photos and PDFs)\n• Automatic warranty calculation\n• Customizable alerts (90, 30, 7 days, last day)\n• Dashboard with summary\n• Search and filters\n• Export to PDF and CSV</string>
+</resources>

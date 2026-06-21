@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Valtio</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_products">Producten</string>
+    <string name="nav_search">Zoeken</string>
+    <string name="nav_settings">Instellingen</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Instellingen</string>
+    <string name="settings_language">Taal</string>
+    <string name="settings_export">Gegevens exporteren</string>
+    <string name="settings_about">Over</string>
+    <string name="settings_about_description">Valtio is uw digitale assistent voor het beheren van productgaranties en aankoopbewijzen.</string>
+    <string name="settings_about_slogan">Verlies nooit meer een garantie</string>
+    <string name="settings_about_copyright">Alle rechten voorbehouden aan HAConnect</string>
+    <string name="settings_language_auto">Automatisch</string>
+    <string name="settings_language_pt">Português</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_language_es">Español</string>
+    <string name="settings_language_fr">Français</string>
+    <string name="settings_language_de">Deutsch</string>
+    <string name="settings_language_it">Italiano</string>
+    <string name="settings_language_nl">Nederlands</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_summary">Overzicht</string>
+    <string name="dashboard_active_warranties">Actieve garanties</string>
+    <string name="dashboard_expiring_30d">Verloopt (30d)</string>
+    <string name="dashboard_expired">Verlopen</string>
+    <string name="dashboard_protected_value">Beschermde waarde</string>
+    <string name="dashboard_expiring_soon">Garanties die bijna verlopen</string>
+    <string name="dashboard_recent_products">Recente producten</string>
+    <string name="dashboard_empty_title">Geen producten geregistreerd</string>
+    <string name="dashboard_empty_subtitle">Begin met het toevoegen van uw eerste product!</string>
+
+    <!-- Product List -->
+    <string name="products_title">Producten</string>
+    <string name="products_empty_title">Geen producten</string>
+    <string name="products_empty_subtitle">Tik op de + knop om een product toe te voegen</string>
+
+    <!-- Product Detail -->
+    <string name="product_detail_title">Productdetails</string>
+    <string name="product_detail_title_short">Details</string>
+    <string name="product_detail_back">Terug</string>
+    <string name="product_detail_edit">Bewerken</string>
+    <string name="product_detail_delete">Verwijderen</string>
+    <string name="product_detail_not_found">Product niet gevonden.</string>
+    <string name="product_detail_model">Model</string>
+    <string name="product_detail_category">Categorie</string>
+    <string name="product_detail_store">Winkel</string>
+    <string name="product_detail_price">Prijs</string>
+    <string name="product_detail_purchase_date">Aankoopdatum</string>
+    <string name="product_detail_warranty">Garantie</string>
+    <string name="product_detail_warranty_end">Einde garantie</string>
+    <string name="product_detail_days_remaining">Resterende dagen</string>
+    <string name="product_detail_notes">Opmerkingen</string>
+    <string name="product_detail_documents">Documenten</string>
+    <string name="product_detail_no_documents">Geen documenten bijgevoegd.</string>
+    <string name="product_detail_delete_confirm">Wilt u dit product en alle documenten verwijderen?</string>
+    <string name="product_detail_cancel">Annuleren</string>
+    <string name="product_detail_delete_action">Verwijderen</string>
+
+    <!-- Product Form -->
+    <string name="product_form_edit_title">Product bewerken</string>
+    <string name="product_form_edit_title_short">Bewerken</string>
+    <string name="product_form_new_title">Nieuw product</string>
+    <string name="product_form_new_title_short">Nieuw</string>
+    <string name="product_form_info">Productinformatie</string>
+    <string name="product_form_name">Productnaam *</string>
+    <string name="product_form_brand">Merk</string>
+    <string name="product_form_model">Model</string>
+    <string name="product_form_category">Categorie</string>
+    <string name="product_form_store">Winkel</string>
+    <string name="product_form_price">Prijs</string>
+    <string name="product_form_warranty">Garantie</string>
+    <string name="product_form_no_warranty">Geen garantie</string>
+    <string name="product_form_warranty_months">%1$d maanden</string>
+    <string name="product_form_warranty_custom">Aangepast…</string>
+    <string name="product_form_warranty_custom_hint">Aantal maanden</string>
+    <string name="product_form_add_photo">Foto toevoegen</string>
+    <string name="product_form_change_photo">Foto wijzigen</string>
+    <string name="product_form_purchase_date">Aankoopdatum</string>
+    <string name="product_form_select_date">Datum selecteren</string>
+    <string name="product_form_notes">Opmerkingen</string>
+    <string name="product_form_save_edit">Opslaan</string>
+    <string name="product_form_add_product">Toevoegen</string>
+    <string name="product_form_ok">OK</string>
+    <string name="product_form_cancel">Annuleren</string>
+
+    <!-- Search -->
+    <string name="search_title">Zoeken</string>
+    <string name="search_placeholder">Zoek op naam, merk, winkel…</string>
+    <string name="search_clear">Wissen</string>
+    <string name="search_filter_all">Alle</string>
+    <string name="search_filter_active">Actief</string>
+    <string name="search_filter_expiring">Bijna verlopen</string>
+    <string name="search_filter_expired">Verlopen</string>
+    <string name="search_no_results">Geen resultaten gevonden</string>
+    <string name="search_no_products">Geen producten</string>
+    <string name="search_try_other_terms">Probeer andere termen</string>
+
+    <!-- Export -->
+    <string name="export_title">Gegevens exporteren</string>
+    <string name="export_heading">Exporteer uw gegevens</string>
+    <string name="export_description">Exporteer naar PDF of CSV om te delen.</string>
+    <string name="export_pdf_card_title">PDF-document</string>
+    <string name="export_pdf_card_desc">Geformatteerde tabel met alle velden</string>
+    <string name="export_csv_card_title">CSV-bestand</string>
+    <string name="export_csv_card_desc">Compatibel met Excel, Sheets, etc.</string>
+    <string name="export_btn_pdf">PDF exporteren</string>
+    <string name="export_btn_csv">CSV exporteren</string>
+    <string name="export_btn_share">Delen</string>
+    <string name="export_info_title">Al uw gegevens worden geëxporteerd</string>
+    <string name="export_info_desc">Inclusief naam, merk, categorie, prijs, data en status</string>
+    <string name="export_success">Export %1$s succesvol voltooid!</string>
+    <string name="export_empty">Geen producten om te exporteren.</string>
+
+    <!-- PDF Export -->
+    <string name="pdf_title">Valtio — Productexport</string>
+    <string name="pdf_generated_on">Gegenereerd op: %1$s</string>
+    <string name="pdf_header_name">Naam</string>
+    <string name="pdf_header_brand">Merk</string>
+    <string name="pdf_header_category">Categorie</string>
+    <string name="pdf_header_price">Prijs</string>
+    <string name="pdf_header_purchase_date">Aankoopdatum</string>
+    <string name="pdf_header_warranty">Garantie</string>
+    <string name="pdf_share_title">Export delen</string>
+
+    <!-- CSV Headers -->
+    <string name="csv_header_name">Naam</string>
+    <string name="csv_header_brand">Merk</string>
+    <string name="csv_header_model">Model</string>
+    <string name="csv_header_category">Categorie</string>
+    <string name="csv_header_store">Winkel</string>
+    <string name="csv_header_price">Prijs</string>
+    <string name="csv_header_purchase_date">Aankoopdatum</string>
+    <string name="csv_header_warranty_months">Garantie (Maanden)</string>
+    <string name="csv_header_warranty_end">Einde garantie</string>
+    <string name="csv_header_status">Status</string>
+
+    <!-- Warranty Status -->
+    <string name="warranty_status_active">Actief</string>
+    <string name="warranty_status_expiring">Bijna verlopen</string>
+    <string name="warranty_status_expired">Verlopen</string>
+    <string name="warranty_status_none">Geen garantie</string>
+
+    <!-- Currency and Locales -->
+    <string name="currency_eur_prefix">€ </string>
+    <string name="settings_current_locales">Huidige locales: %1$s</string>
+    <string name="settings_force_pl">Polski (pl) forceren</string>
+    <string name="settings_force_ru">Русский (ru) forceren</string>
+
+    <!-- GarantiaBadge -->
+    <string name="badge_active">%1$d dagen</string>
+    <string name="badge_active_short">Actief</string>
+    <string name="badge_expiring">%1$dd resterend</string>
+    <string name="badge_expiring_short">Bijna</string>
+    <string name="badge_expired_short">Verlopen</string>
+    <string name="badge_none_short">Geen</string>
+
+    <!-- ProdutoCard -->
+    <string name="card_purchase_label">Aankoop: %1$s</string>
+    <string name="card_warranty_end_label">Einde: %1$s</string>
+    <string name="card_purchase_column_label">AANKOOP</string>
+    <string name="card_warranty_end_column_label">EINDE GARANTIE</string>
+    <string name="card_category_column_label">CATEGORIE</string>
+    <string name="card_edit_description">Bewerken</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Garantie-waarschuwingen</string>
+    <string name="notification_channel_desc">Meldingen over aflopende garanties</string>
+    <string name="notification_expires_today_title">Garantie verloopt vandaag!</string>
+    <string name="notification_expires_soon_title">Garantie verloopt binnenkort</string>
+    <string name="notification_expiring_title">Garantie verloopt</string>
+    <string name="notification_alert_title">Garantie — Waarschuwing</string>
+    <string name="notification_expires_today_body">De garantie voor \"%1$s\" verloopt vandaag!</string>
+    <string name="notification_expires_tomorrow_body">De garantie voor \"%1$s\" verloopt morgen!</string>
+    <string name="notification_expires_in_days_body">De garantie voor \"%1$s\" verloopt over %2$d dagen.</string>
+
+    <!-- FAB -->
+    <string name="fab_new_product">Nieuw product</string>
+
+    <!-- Play Store -->
+    <string name="play_store_short_desc">Digitale kluis voor garanties en facturen.</string>
+    <string name="play_store_long_desc">Beheer uw garanties en facturen digitaal.</string>
+</resources>
