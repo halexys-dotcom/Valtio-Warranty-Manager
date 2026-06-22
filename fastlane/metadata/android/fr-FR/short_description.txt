@@ -1,1 +1,1 @@
-Coffre-fort numérique pour garanties, factures et documents d'achat. Ne perdez plus jamais une garantie.
+Gestionnaire de garanties, factures et reçus. Ne perdez plus une garantie.
