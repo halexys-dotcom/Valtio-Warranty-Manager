@@ -1,0 +1,10 @@
+Lançamento inicial do Valtio — Gestor Digital de Garantias:
+
+• Registo de produtos com controlo de garantia
+• Anexo de documentos (fotos e PDFs)
+• Cálculo automático da garantia
+• Alertas personalizáveis (90, 30, 7 dias, último dia)
+• Dashboard com resumo
+• Pesquisa e filtros
+• Exportação para PDF e CSV
+• Suporte multi-idioma (7 idiomas)

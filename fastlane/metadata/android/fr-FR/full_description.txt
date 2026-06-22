@@ -1,0 +1,13 @@
+Valtio est votre coffre-fort numérique pour gérer les garanties, factures et documents d'achat. Ne perdez plus jamais un reçu ni n'oubliez une date d'expiration de garantie.
+
+<b>Fonctionnalités :</b>
+• Enregistrement de produits avec suivi de garantie
+• Pièces jointes (photos et PDF)
+• Calcul automatique de la garantie
+• Alertes personnalisables (90, 30, 7 jours, dernier jour)
+• Tableau de bord avec résumé
+• Recherche et filtres
+• Export PDF et CSV
+• Support multilingue (7 langues)
+
+<b>100 % Gratuit et Open Source.</b> Sans publicité, sans pistage, sans collecte de données.

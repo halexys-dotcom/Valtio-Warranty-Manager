@@ -1,0 +1,10 @@
+Initial release of Valtio — Digital Warranty Manager:
+
+• Product registration with warranty tracking
+• Document attachment (photos and PDFs)
+• Automatic warranty calculation
+• Customizable alerts (90, 30, 7 days, last day)
+• Dashboard with summary
+• Search and filters
+• Export to PDF and CSV
+• Multi-language support (7 languages)

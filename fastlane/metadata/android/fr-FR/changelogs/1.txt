@@ -1,0 +1,10 @@
+Lancement initial de Valtio — Gestionnaire Numérique de Garanties :
+
+• Enregistrement de produits avec suivi de garantie
+• Pièces jointes (photos et PDF)
+• Calcul automatique de la garantie
+• Alertes personnalisables (90, 30, 7 jours, dernier jour)
+• Tableau de bord avec résumé
+• Recherche et filtres
+• Export PDF et CSV
+• Support multilingue (7 langues)

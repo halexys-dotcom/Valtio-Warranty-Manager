@@ -1,0 +1,13 @@
+O Valtio é o seu cofre digital para gerir garantias, faturas e documentos de compra. Nunca mais perca um recibo ou se esqueça de uma data de fim de garantia.
+
+<b>Funcionalidades:</b>
+• Registo de produtos com controlo de garantia
+• Anexo de documentos (fotos e PDFs)
+• Cálculo automático da garantia
+• Alertas personalizáveis (90, 30, 7 dias, último dia)
+• Dashboard com resumo
+• Pesquisa e filtros
+• Exportação para PDF e CSV
+• Suporte multi-idioma (7 idiomas)
+
+<b>100% Grátis e Open Source.</b> Sem anúncios, sem rastreamento, sem recolha de dados.

@@ -1,0 +1,13 @@
+Valtio è la tua cassaforte digitale per gestire garanzie, fatture e documenti d'acquisto. Non perdere mai più una ricevuta né dimenticare una data di scadenza della garanzia.
+
+<b>Funzionalità:</b>
+• Registrazione prodotti con monitoraggio garanzia
+• Allegati documentali (foto e PDF)
+• Calcolo automatico della garanzia
+• Avvisi personalizzabili (90, 30, 7 giorni, ultimo giorno)
+• Dashboard con riepilogo
+• Ricerca e filtri
+• Esportazione PDF e CSV
+• Supporto multilingue (7 lingue)
+
+<b>100% Gratuito e Open Source.</b> Nessuna pubblicità, nessun tracciamento, nessuna raccolta dati.

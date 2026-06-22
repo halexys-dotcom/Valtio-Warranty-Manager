@@ -1,0 +1,13 @@
+Valtio is uw digitale kluis voor het beheren van garanties, facturen en aankoopdocumenten. Verlies nooit meer een bon of vergeet een garantievervaldatum.
+
+<b>Functies:</b>
+• Productregistratie met garantiebewaking
+• Documentbijlagen (foto's en PDF's)
+• Automatische garantieberekening
+• Aanpasbare meldingen (90, 30, 7 dagen, laatste dag)
+• Dashboard met samenvatting
+• Zoeken en filters
+• Exporteren naar PDF en CSV
+• Meertalige ondersteuning (7 talen)
+
+<b>100% Gratis en Open Source.</b> Geen advertenties, geen tracking, geen gegevensverzameling.

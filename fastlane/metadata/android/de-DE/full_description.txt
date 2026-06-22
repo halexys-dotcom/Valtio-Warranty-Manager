@@ -1,0 +1,13 @@
+Valtio ist Ihr digitaler Tresor zur Verwaltung von Garantien, Rechnungen und Kaufbelegen. Verlieren Sie nie wieder eine Quittung oder vergessen Sie ein Garantieablaufdatum.
+
+<b>Funktionen:</b>
+• Produktregistrierung mit Garantieverfolgung
+• Dokumentanhänge (Fotos und PDFs)
+• Automatische Garantieberechnung
+• Anpassbare Benachrichtigungen (90, 30, 7 Tage, letzter Tag)
+• Dashboard mit Zusammenfassung
+• Suche und Filter
+• Export als PDF und CSV
+• Mehrsprachige Unterstützung (7 Sprachen)
+
+<b>100 % Kostenlos und Open Source.</b> Keine Werbung, kein Tracking, keine Datenerfassung.
