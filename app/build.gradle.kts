@@ -7,14 +7,14 @@ plugins {
 
 android {
     namespace = "com.valtio.app"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.valtio.app"
         minSdk = 26
-        targetSdk = 34
-        versionCode = 1
-        versionName = "1.0.0"
+        targetSdk = 36
+        versionCode = 4
+        versionName = "1.0.3"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
@@ -24,7 +24,7 @@ android {
 
     signingConfigs {
         create("release") {
-            storeFile = file("../valtio-release.jks")
+            storeFile = rootProject.file("valtio-release.jks")
             storePassword = "Valtio2026"
             keyAlias = "valtio"
             keyPassword = "Valtio2026"
